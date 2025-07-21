@@ -4,7 +4,7 @@
 
 
 - 💻 I'm Software Developer with Computer Civil Engineering degree in the University of Concepción (UDEC).
-- 🌱 I love learning new things and facing new challenges.
+- 🌱 I love learning new things, facing new challenges and i seek to bring a user experience focus through elegant designs and the creation of innovative solutions.
 
 # My skills
 
